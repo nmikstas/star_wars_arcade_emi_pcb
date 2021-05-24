@@ -1,0 +1,11 @@
+(module Cap (layer F.Cu) (tedit 5D426260)
+  (fp_text reference REF** (at 0 -8.89 90) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Cap (at -1.27 0 90) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 0 -4.445) (end 0 4.445) (layer F.SilkS) (width 0.254))
+  (pad 1 thru_hole circle (at 0 5.715) (size 1.905 1.905) (drill 1.016) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 0 -5.715) (size 1.905 1.905) (drill 1.016) (layers *.Cu *.Mask))
+)

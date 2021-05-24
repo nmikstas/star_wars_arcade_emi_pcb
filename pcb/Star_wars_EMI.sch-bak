@@ -1,0 +1,1940 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A2 23386 16535
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Star_Wars_EMI:Edge_Connector_44 J20
+U 1 1 5D417190
+P 12675 3150
+F 0 "J20" H 12675 4825 60  0000 C CNN
+F 1 "Edge_Connector_44" H 12700 4750 60  0000 C CNN
+F 2 "Star_Wars_EMI:J20" H 12800 4775 60  0001 C CNN
+F 3 "" H 12800 4775 60  0001 C CNN
+	1    12675 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Star_Wars_EMI:Edge_Connector_30 J19
+U 1 1 5D4171F7
+P 13750 4150
+F 0 "J19" H 13750 5825 60  0000 C CNN
+F 1 "Edge_Connector_30" H 13775 5750 60  0000 C CNN
+F 2 "Star_Wars_EMI:J19" H 13875 5775 60  0001 C CNN
+F 3 "" H 13875 5775 60  0001 C CNN
+	1    13750 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C2
+U 1 1 5D417663
+P 2750 6375
+F 0 "C2" H 2775 6475 50  0000 L CNN
+F 1 ".1" H 2775 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 2788 6225 50  0001 C CNN
+F 3 "" H 2750 6375 50  0001 C CNN
+	1    2750 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C21
+U 1 1 5D417686
+P 3000 6375
+F 0 "C21" H 3025 6475 50  0000 L CNN
+F 1 ".1" H 3025 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 3038 6225 50  0001 C CNN
+F 3 "" H 3000 6375 50  0001 C CNN
+	1    3000 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C40
+U 1 1 5D4176AF
+P 3250 6375
+F 0 "C40" H 3275 6475 50  0000 L CNN
+F 1 ".1" H 3275 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 3288 6225 50  0001 C CNN
+F 3 "" H 3250 6375 50  0001 C CNN
+	1    3250 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C22
+U 1 1 5D4176DC
+P 3500 6375
+F 0 "C22" H 3525 6475 50  0000 L CNN
+F 1 ".1" H 3525 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 3538 6225 50  0001 C CNN
+F 3 "" H 3500 6375 50  0001 C CNN
+	1    3500 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C20
+U 1 1 5D417709
+P 3750 6375
+F 0 "C20" H 3775 6475 50  0000 L CNN
+F 1 "OPEN" H 3775 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 3788 6225 50  0001 C CNN
+F 3 "" H 3750 6375 50  0001 C CNN
+	1    3750 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C23
+U 1 1 5D417736
+P 4000 6375
+F 0 "C23" H 4025 6475 50  0000 L CNN
+F 1 ".1" H 4025 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 4038 6225 50  0001 C CNN
+F 3 "" H 4000 6375 50  0001 C CNN
+	1    4000 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C19
+U 1 1 5D417771
+P 4250 6375
+F 0 "C19" H 4275 6475 50  0000 L CNN
+F 1 "OPEN" H 4275 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 4288 6225 50  0001 C CNN
+F 3 "" H 4250 6375 50  0001 C CNN
+	1    4250 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C5
+U 1 1 5D4177A2
+P 4500 6375
+F 0 "C5" H 4525 6475 50  0000 L CNN
+F 1 ".1" H 4525 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 4538 6225 50  0001 C CNN
+F 3 "" H 4500 6375 50  0001 C CNN
+	1    4500 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C37
+U 1 1 5D4177D9
+P 4750 6375
+F 0 "C37" H 4775 6475 50  0000 L CNN
+F 1 ".1" H 4775 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 4788 6225 50  0001 C CNN
+F 3 "" H 4750 6375 50  0001 C CNN
+	1    4750 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C3
+U 1 1 5D417814
+P 5000 6375
+F 0 "C3" H 5025 6475 50  0000 L CNN
+F 1 ".1" H 5025 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 5038 6225 50  0001 C CNN
+F 3 "" H 5000 6375 50  0001 C CNN
+	1    5000 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C4
+U 1 1 5D417CCD
+P 5250 6375
+F 0 "C4" H 5275 6475 50  0000 L CNN
+F 1 ".1" H 5275 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 5288 6225 50  0001 C CNN
+F 3 "" H 5250 6375 50  0001 C CNN
+	1    5250 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C6
+U 1 1 5D417CD3
+P 5500 6375
+F 0 "C6" H 5525 6475 50  0000 L CNN
+F 1 ".1" H 5525 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 5538 6225 50  0001 C CNN
+F 3 "" H 5500 6375 50  0001 C CNN
+	1    5500 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C7
+U 1 1 5D417CD9
+P 5750 6375
+F 0 "C7" H 5775 6475 50  0000 L CNN
+F 1 ".1" H 5775 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 5788 6225 50  0001 C CNN
+F 3 "" H 5750 6375 50  0001 C CNN
+	1    5750 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C8
+U 1 1 5D417CDF
+P 6000 6375
+F 0 "C8" H 6025 6475 50  0000 L CNN
+F 1 ".1" H 6025 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 6038 6225 50  0001 C CNN
+F 3 "" H 6000 6375 50  0001 C CNN
+	1    6000 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C9
+U 1 1 5D417CE5
+P 6250 6375
+F 0 "C9" H 6275 6475 50  0000 L CNN
+F 1 ".1" H 6275 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 6288 6225 50  0001 C CNN
+F 3 "" H 6250 6375 50  0001 C CNN
+	1    6250 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C10
+U 1 1 5D417CEB
+P 6500 6375
+F 0 "C10" H 6525 6475 50  0000 L CNN
+F 1 ".1" H 6525 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 6538 6225 50  0001 C CNN
+F 3 "" H 6500 6375 50  0001 C CNN
+	1    6500 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C11
+U 1 1 5D417CF1
+P 6750 6375
+F 0 "C11" H 6775 6475 50  0000 L CNN
+F 1 ".1" H 6775 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 6788 6225 50  0001 C CNN
+F 3 "" H 6750 6375 50  0001 C CNN
+	1    6750 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C12
+U 1 1 5D417CF7
+P 7000 6375
+F 0 "C12" H 7025 6475 50  0000 L CNN
+F 1 ".1" H 7025 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 7038 6225 50  0001 C CNN
+F 3 "" H 7000 6375 50  0001 C CNN
+	1    7000 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C13
+U 1 1 5D417CFD
+P 7250 6375
+F 0 "C13" H 7275 6475 50  0000 L CNN
+F 1 ".1" H 7275 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 7288 6225 50  0001 C CNN
+F 3 "" H 7250 6375 50  0001 C CNN
+	1    7250 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C14
+U 1 1 5D417D03
+P 7500 6375
+F 0 "C14" H 7525 6475 50  0000 L CNN
+F 1 ".1" H 7525 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 7538 6225 50  0001 C CNN
+F 3 "" H 7500 6375 50  0001 C CNN
+	1    7500 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C15
+U 1 1 5D417D09
+P 7750 6375
+F 0 "C15" H 7775 6475 50  0000 L CNN
+F 1 ".1" H 7775 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 7788 6225 50  0001 C CNN
+F 3 "" H 7750 6375 50  0001 C CNN
+	1    7750 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C16
+U 1 1 5D4180DB
+P 8000 6375
+F 0 "C16" H 8025 6475 50  0000 L CNN
+F 1 ".1" H 8025 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 8038 6225 50  0001 C CNN
+F 3 "" H 8000 6375 50  0001 C CNN
+	1    8000 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C17
+U 1 1 5D4180E1
+P 8250 6375
+F 0 "C17" H 8275 6475 50  0000 L CNN
+F 1 ".01" H 8275 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 8288 6225 50  0001 C CNN
+F 3 "" H 8250 6375 50  0001 C CNN
+	1    8250 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C18
+U 1 1 5D4180E7
+P 8500 6375
+F 0 "C18" H 8525 6475 50  0000 L CNN
+F 1 "OPEN" H 8525 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 8538 6225 50  0001 C CNN
+F 3 "" H 8500 6375 50  0001 C CNN
+	1    8500 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C24
+U 1 1 5D4180ED
+P 8750 6375
+F 0 "C24" H 8775 6475 50  0000 L CNN
+F 1 "OPEN" H 8775 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 8788 6225 50  0001 C CNN
+F 3 "" H 8750 6375 50  0001 C CNN
+	1    8750 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C25
+U 1 1 5D4180F3
+P 9000 6375
+F 0 "C25" H 9025 6475 50  0000 L CNN
+F 1 "OPEN" H 9025 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 9038 6225 50  0001 C CNN
+F 3 "" H 9000 6375 50  0001 C CNN
+	1    9000 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C26
+U 1 1 5D4180F9
+P 9250 6375
+F 0 "C26" H 9275 6475 50  0000 L CNN
+F 1 ".1" H 9275 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 9288 6225 50  0001 C CNN
+F 3 "" H 9250 6375 50  0001 C CNN
+	1    9250 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C27
+U 1 1 5D4180FF
+P 9500 6375
+F 0 "C27" H 9525 6475 50  0000 L CNN
+F 1 "OPEN" H 9525 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 9538 6225 50  0001 C CNN
+F 3 "" H 9500 6375 50  0001 C CNN
+	1    9500 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C28
+U 1 1 5D418105
+P 9750 6375
+F 0 "C28" H 9775 6475 50  0000 L CNN
+F 1 "OPEN" H 9775 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 9788 6225 50  0001 C CNN
+F 3 "" H 9750 6375 50  0001 C CNN
+	1    9750 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C29
+U 1 1 5D41874B
+P 10000 6375
+F 0 "C29" H 10025 6475 50  0000 L CNN
+F 1 ".1" H 10025 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 10038 6225 50  0001 C CNN
+F 3 "" H 10000 6375 50  0001 C CNN
+	1    10000 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C30
+U 1 1 5D418751
+P 10250 6375
+F 0 "C30" H 10275 6475 50  0000 L CNN
+F 1 "OPEN" H 10275 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 10288 6225 50  0001 C CNN
+F 3 "" H 10250 6375 50  0001 C CNN
+	1    10250 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C31
+U 1 1 5D418757
+P 10500 6375
+F 0 "C31" H 10525 6475 50  0000 L CNN
+F 1 ".1" H 10525 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 10538 6225 50  0001 C CNN
+F 3 "" H 10500 6375 50  0001 C CNN
+	1    10500 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C32
+U 1 1 5D41875D
+P 10750 6375
+F 0 "C32" H 10775 6475 50  0000 L CNN
+F 1 ".1" H 10775 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 10788 6225 50  0001 C CNN
+F 3 "" H 10750 6375 50  0001 C CNN
+	1    10750 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C33
+U 1 1 5D418763
+P 11000 6375
+F 0 "C33" H 11025 6475 50  0000 L CNN
+F 1 ".1" H 11025 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 11038 6225 50  0001 C CNN
+F 3 "" H 11000 6375 50  0001 C CNN
+	1    11000 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C34
+U 1 1 5D418769
+P 11250 6375
+F 0 "C34" H 11275 6475 50  0000 L CNN
+F 1 ".1" H 11275 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 11288 6225 50  0001 C CNN
+F 3 "" H 11250 6375 50  0001 C CNN
+	1    11250 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C35
+U 1 1 5D41876F
+P 11500 6375
+F 0 "C35" H 11525 6475 50  0000 L CNN
+F 1 "OPEN" H 11525 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 11538 6225 50  0001 C CNN
+F 3 "" H 11500 6375 50  0001 C CNN
+	1    11500 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C36
+U 1 1 5D418775
+P 11750 6375
+F 0 "C36" H 11775 6475 50  0000 L CNN
+F 1 ".01" H 11775 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 11788 6225 50  0001 C CNN
+F 3 "" H 11750 6375 50  0001 C CNN
+	1    11750 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C38
+U 1 1 5D41877B
+P 12000 6375
+F 0 "C38" H 12025 6475 50  0000 L CNN
+F 1 ".1" H 12025 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 12038 6225 50  0001 C CNN
+F 3 "" H 12000 6375 50  0001 C CNN
+	1    12000 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C39
+U 1 1 5D418781
+P 12250 6375
+F 0 "C39" H 12275 6475 50  0000 L CNN
+F 1 ".1" H 12275 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 12288 6225 50  0001 C CNN
+F 3 "" H 12250 6375 50  0001 C CNN
+	1    12250 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 5D4189C3
+P 2250 6375
+F 0 "C1" H 2275 6475 50  0000 L CNN
+F 1 ".1" H 2275 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 2288 6225 50  0001 C CNN
+F 3 "" H 2250 6375 50  0001 C CNN
+	1    2250 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C57
+U 1 1 5D41B7BD
+P 14350 6375
+F 0 "C57" H 14375 6475 50  0000 L CNN
+F 1 ".1" H 14375 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 14388 6225 50  0001 C CNN
+F 3 "" H 14350 6375 50  0001 C CNN
+	1    14350 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C41
+U 1 1 5D41B7C3
+P 14600 6375
+F 0 "C41" H 14625 6475 50  0000 L CNN
+F 1 "OPEN" H 14625 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 14638 6225 50  0001 C CNN
+F 3 "" H 14600 6375 50  0001 C CNN
+	1    14600 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C55
+U 1 1 5D41B7C9
+P 14850 6375
+F 0 "C55" H 14875 6475 50  0000 L CNN
+F 1 ".1" H 14875 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 14888 6225 50  0001 C CNN
+F 3 "" H 14850 6375 50  0001 C CNN
+	1    14850 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C54
+U 1 1 5D41B7CF
+P 15100 6375
+F 0 "C54" H 15125 6475 50  0000 L CNN
+F 1 ".1" H 15125 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 15138 6225 50  0001 C CNN
+F 3 "" H 15100 6375 50  0001 C CNN
+	1    15100 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C56
+U 1 1 5D41B7D5
+P 15350 6375
+F 0 "C56" H 15375 6475 50  0000 L CNN
+F 1 ".1" H 15375 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 15388 6225 50  0001 C CNN
+F 3 "" H 15350 6375 50  0001 C CNN
+	1    15350 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C42
+U 1 1 5D41B7DB
+P 15600 6375
+F 0 "C42" H 15625 6475 50  0000 L CNN
+F 1 "OPEN" H 15625 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 15638 6225 50  0001 C CNN
+F 3 "" H 15600 6375 50  0001 C CNN
+	1    15600 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C68
+U 1 1 5D41B7E1
+P 15850 6375
+F 0 "C68" H 15875 6475 50  0000 L CNN
+F 1 ".1" H 15875 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 15888 6225 50  0001 C CNN
+F 3 "" H 15850 6375 50  0001 C CNN
+	1    15850 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C67
+U 1 1 5D41B7E7
+P 16100 6375
+F 0 "C67" H 16125 6475 50  0000 L CNN
+F 1 "OPEN" H 16125 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 16138 6225 50  0001 C CNN
+F 3 "" H 16100 6375 50  0001 C CNN
+	1    16100 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C66
+U 1 1 5D41B7ED
+P 16350 6375
+F 0 "C66" H 16375 6475 50  0000 L CNN
+F 1 "OPEN" H 16375 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 16388 6225 50  0001 C CNN
+F 3 "" H 16350 6375 50  0001 C CNN
+	1    16350 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C65
+U 1 1 5D41B7F3
+P 16600 6375
+F 0 "C65" H 16625 6475 50  0000 L CNN
+F 1 "OPEN" H 16625 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 16638 6225 50  0001 C CNN
+F 3 "" H 16600 6375 50  0001 C CNN
+	1    16600 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C64
+U 1 1 5D41B7F9
+P 16850 6375
+F 0 "C64" H 16875 6475 50  0000 L CNN
+F 1 ".1" H 16875 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 16888 6225 50  0001 C CNN
+F 3 "" H 16850 6375 50  0001 C CNN
+	1    16850 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C63
+U 1 1 5D41B7FF
+P 17100 6375
+F 0 "C63" H 17125 6475 50  0000 L CNN
+F 1 ".1" H 17125 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 17138 6225 50  0001 C CNN
+F 3 "" H 17100 6375 50  0001 C CNN
+	1    17100 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C62
+U 1 1 5D41B805
+P 17350 6375
+F 0 "C62" H 17375 6475 50  0000 L CNN
+F 1 ".1" H 17375 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 17388 6225 50  0001 C CNN
+F 3 "" H 17350 6375 50  0001 C CNN
+	1    17350 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C61
+U 1 1 5D41B80B
+P 17600 6375
+F 0 "C61" H 17625 6475 50  0000 L CNN
+F 1 ".1" H 17625 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 17638 6225 50  0001 C CNN
+F 3 "" H 17600 6375 50  0001 C CNN
+	1    17600 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C60
+U 1 1 5D41B811
+P 17850 6375
+F 0 "C60" H 17875 6475 50  0000 L CNN
+F 1 ".1" H 17875 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 17888 6225 50  0001 C CNN
+F 3 "" H 17850 6375 50  0001 C CNN
+	1    17850 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C59
+U 1 1 5D41B817
+P 18100 6375
+F 0 "C59" H 18125 6475 50  0000 L CNN
+F 1 ".1" H 18125 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 18138 6225 50  0001 C CNN
+F 3 "" H 18100 6375 50  0001 C CNN
+	1    18100 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C58
+U 1 1 5D41B81D
+P 18350 6375
+F 0 "C58" H 18375 6475 50  0000 L CNN
+F 1 ".1" H 18375 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 18388 6225 50  0001 C CNN
+F 3 "" H 18350 6375 50  0001 C CNN
+	1    18350 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C53
+U 1 1 5D41B823
+P 18600 6375
+F 0 "C53" H 18625 6475 50  0000 L CNN
+F 1 ".1" H 18625 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 18638 6225 50  0001 C CNN
+F 3 "" H 18600 6375 50  0001 C CNN
+	1    18600 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C52
+U 1 1 5D41B829
+P 18850 6375
+F 0 "C52" H 18875 6475 50  0000 L CNN
+F 1 ".1" H 18875 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 18888 6225 50  0001 C CNN
+F 3 "" H 18850 6375 50  0001 C CNN
+	1    18850 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C51
+U 1 1 5D41B82F
+P 19100 6375
+F 0 "C51" H 19125 6475 50  0000 L CNN
+F 1 "OPEN" H 19125 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 19138 6225 50  0001 C CNN
+F 3 "" H 19100 6375 50  0001 C CNN
+	1    19100 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C50
+U 1 1 5D41B835
+P 19350 6375
+F 0 "C50" H 19375 6475 50  0000 L CNN
+F 1 "470pf" H 19375 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 19388 6225 50  0001 C CNN
+F 3 "" H 19350 6375 50  0001 C CNN
+	1    19350 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C49
+U 1 1 5D41B83B
+P 19600 6375
+F 0 "C49" H 19625 6475 50  0000 L CNN
+F 1 "470pf" H 19625 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 19638 6225 50  0001 C CNN
+F 3 "" H 19600 6375 50  0001 C CNN
+	1    19600 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C48
+U 1 1 5D41B841
+P 19850 6375
+F 0 "C48" H 19875 6475 50  0000 L CNN
+F 1 "470pf" H 19875 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 19888 6225 50  0001 C CNN
+F 3 "" H 19850 6375 50  0001 C CNN
+	1    19850 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C47
+U 1 1 5D41B847
+P 20100 6375
+F 0 "C47" H 20125 6475 50  0000 L CNN
+F 1 "470pf" H 20125 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 20138 6225 50  0001 C CNN
+F 3 "" H 20100 6375 50  0001 C CNN
+	1    20100 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C46
+U 1 1 5D41B84D
+P 20350 6375
+F 0 "C46" H 20375 6475 50  0000 L CNN
+F 1 "470pf" H 20375 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 20388 6225 50  0001 C CNN
+F 3 "" H 20350 6375 50  0001 C CNN
+	1    20350 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C45
+U 1 1 5D41B853
+P 20600 6375
+F 0 "C45" H 20625 6475 50  0000 L CNN
+F 1 "470pf" H 20625 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 20638 6225 50  0001 C CNN
+F 3 "" H 20600 6375 50  0001 C CNN
+	1    20600 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C44
+U 1 1 5D41B859
+P 20850 6375
+F 0 "C44" H 20875 6475 50  0000 L CNN
+F 1 "OPEN" H 20875 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 20888 6225 50  0001 C CNN
+F 3 "" H 20850 6375 50  0001 C CNN
+	1    20850 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C43
+U 1 1 5D41B85F
+P 21100 6375
+F 0 "C43" H 21125 6475 50  0000 L CNN
+F 1 "OPEN" H 21125 6275 50  0000 L CNN
+F 2 "Star_Wars_EMI:Cap" H 21138 6225 50  0001 C CNN
+F 3 "" H 21100 6375 50  0001 C CNN
+	1    21100 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR01
+U 1 1 5D4351D4
+P 12250 6625
+F 0 "#PWR01" H 12250 6375 50  0001 C CNN
+F 1 "GND" H 12250 6475 50  0000 C CNN
+F 2 "" H 12250 6625 50  0001 C CNN
+F 3 "" H 12250 6625 50  0001 C CNN
+	1    12250 6625
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR02
+U 1 1 5D471B6D
+P 21100 6675
+F 0 "#PWR02" H 21100 6425 50  0001 C CNN
+F 1 "GND" H 21100 6525 50  0000 C CNN
+F 2 "" H 21100 6675 50  0001 C CNN
+F 3 "" H 21100 6675 50  0001 C CNN
+	1    21100 6675
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12675 1700 2750 1700
+Wire Wire Line
+	12675 1800 2750 1800
+Wire Wire Line
+	12675 1900 2750 1900
+Wire Wire Line
+	1675 2000 2525 2000
+Wire Wire Line
+	21475 2700 13975 2700
+Wire Wire Line
+	13750 2800 13975 2800
+Wire Wire Line
+	1675 2200 2750 2200
+Wire Wire Line
+	12675 2300 3000 2300
+Wire Wire Line
+	1675 2400 3250 2400
+Wire Wire Line
+	12675 2500 3500 2500
+Wire Wire Line
+	1675 2600 3750 2600
+Wire Wire Line
+	12675 2700 4000 2700
+Wire Wire Line
+	1675 2800 4250 2800
+Wire Wire Line
+	12675 2900 4500 2900
+Wire Wire Line
+	1675 3000 4750 3000
+Wire Wire Line
+	12675 3100 5000 3100
+Wire Wire Line
+	1675 3200 5250 3200
+Wire Wire Line
+	12675 3300 5500 3300
+Wire Wire Line
+	1675 3400 5750 3400
+Wire Wire Line
+	12675 3500 6000 3500
+Wire Wire Line
+	1675 3600 6250 3600
+Wire Wire Line
+	12675 3700 6500 3700
+Wire Wire Line
+	1675 3800 6750 3800
+Wire Wire Line
+	12675 3900 7000 3900
+Wire Wire Line
+	1675 4000 7250 4000
+Wire Wire Line
+	12675 4100 7500 4100
+Wire Wire Line
+	1675 4200 7750 4200
+Wire Wire Line
+	12675 4300 8000 4300
+Wire Wire Line
+	1675 4400 8250 4400
+Wire Wire Line
+	12675 4500 8500 4500
+Wire Wire Line
+	1675 4600 8750 4600
+Wire Wire Line
+	12675 4700 9000 4700
+Wire Wire Line
+	1675 4800 9250 4800
+Wire Wire Line
+	12675 4900 9500 4900
+Wire Wire Line
+	1675 5000 9750 5000
+Wire Wire Line
+	12675 5100 10000 5100
+Wire Wire Line
+	1675 5200 10250 5200
+Wire Wire Line
+	12675 5300 10500 5300
+Wire Wire Line
+	1675 5400 10750 5400
+Wire Wire Line
+	12675 5500 11000 5500
+Wire Wire Line
+	1675 5600 11250 5600
+Wire Wire Line
+	12675 5700 11500 5700
+Wire Wire Line
+	1675 5800 11750 5800
+Wire Wire Line
+	12675 5900 12000 5900
+Wire Wire Line
+	1675 6000 12250 6000
+Wire Wire Line
+	13750 2900 14350 2900
+Wire Wire Line
+	21475 3000 14600 3000
+Wire Wire Line
+	13750 3100 15100 3100
+Wire Wire Line
+	21475 3200 15100 3200
+Wire Wire Line
+	13750 3300 15350 3300
+Wire Wire Line
+	21475 3400 15600 3400
+Wire Wire Line
+	13750 3500 15850 3500
+Wire Wire Line
+	21475 3600 16100 3600
+Wire Wire Line
+	13750 3700 16350 3700
+Wire Wire Line
+	21475 3800 16600 3800
+Wire Wire Line
+	13750 3900 16850 3900
+Wire Wire Line
+	21475 4000 17100 4000
+Wire Wire Line
+	13750 4100 17350 4100
+Wire Wire Line
+	21475 4200 17600 4200
+Wire Wire Line
+	13750 4300 17850 4300
+Wire Wire Line
+	21475 4400 18100 4400
+Wire Wire Line
+	13750 4500 18350 4500
+Wire Wire Line
+	21475 4600 18600 4600
+Wire Wire Line
+	13750 4700 18850 4700
+Wire Wire Line
+	21475 4800 19100 4800
+Wire Wire Line
+	13750 4900 19350 4900
+Wire Wire Line
+	21475 5000 19600 5000
+Wire Wire Line
+	13750 5100 19850 5100
+Wire Wire Line
+	21475 5200 20100 5200
+Wire Wire Line
+	13750 5300 20350 5300
+Wire Wire Line
+	21475 5400 20600 5400
+Wire Wire Line
+	13750 5500 20850 5500
+Wire Wire Line
+	21475 5600 21100 5600
+Wire Wire Line
+	12250 6525 12250 6575
+Wire Wire Line
+	2250 6575 2525 6575
+Wire Wire Line
+	12000 6575 12000 6525
+Connection ~ 12250 6575
+Wire Wire Line
+	11750 6575 11750 6525
+Connection ~ 12000 6575
+Wire Wire Line
+	11500 6575 11500 6525
+Connection ~ 11750 6575
+Wire Wire Line
+	11250 6575 11250 6525
+Connection ~ 11500 6575
+Wire Wire Line
+	11000 6575 11000 6525
+Connection ~ 11250 6575
+Wire Wire Line
+	2525 6575 2525 2000
+Connection ~ 2525 2000
+Wire Wire Line
+	10750 6575 10750 6525
+Connection ~ 11000 6575
+Wire Wire Line
+	10500 6575 10500 6525
+Connection ~ 10750 6575
+Wire Wire Line
+	10250 6575 10250 6525
+Connection ~ 10500 6575
+Wire Wire Line
+	10000 6575 10000 6525
+Connection ~ 10250 6575
+Wire Wire Line
+	9750 6575 9750 6525
+Connection ~ 10000 6575
+Wire Wire Line
+	9500 6575 9500 6525
+Connection ~ 9750 6575
+Wire Wire Line
+	9250 6575 9250 6525
+Connection ~ 9500 6575
+Wire Wire Line
+	9000 6575 9000 6525
+Connection ~ 9250 6575
+Wire Wire Line
+	8750 6575 8750 6525
+Connection ~ 9000 6575
+Wire Wire Line
+	8500 6575 8500 6525
+Connection ~ 8750 6575
+Wire Wire Line
+	8250 6575 8250 6525
+Connection ~ 8500 6575
+Wire Wire Line
+	8000 6575 8000 6525
+Connection ~ 8250 6575
+Wire Wire Line
+	7750 6575 7750 6525
+Connection ~ 8000 6575
+Wire Wire Line
+	7500 6575 7500 6525
+Connection ~ 7750 6575
+Wire Wire Line
+	7250 6575 7250 6525
+Connection ~ 7500 6575
+Wire Wire Line
+	7000 6575 7000 6525
+Connection ~ 7250 6575
+Wire Wire Line
+	6750 6575 6750 6525
+Connection ~ 7000 6575
+Wire Wire Line
+	6500 6575 6500 6525
+Connection ~ 6750 6575
+Wire Wire Line
+	6250 6575 6250 6525
+Connection ~ 6500 6575
+Wire Wire Line
+	6000 6575 6000 6525
+Connection ~ 6250 6575
+Wire Wire Line
+	5750 6575 5750 6525
+Connection ~ 6000 6575
+Wire Wire Line
+	5500 6575 5500 6525
+Connection ~ 5750 6575
+Wire Wire Line
+	5250 6575 5250 6525
+Connection ~ 5500 6575
+Wire Wire Line
+	5000 6575 5000 6525
+Connection ~ 5250 6575
+Wire Wire Line
+	4750 6575 4750 6525
+Connection ~ 5000 6575
+Wire Wire Line
+	4500 6575 4500 6525
+Connection ~ 4750 6575
+Wire Wire Line
+	4250 6575 4250 6525
+Connection ~ 4500 6575
+Wire Wire Line
+	4000 6575 4000 6525
+Connection ~ 4250 6575
+Wire Wire Line
+	3750 6575 3750 6525
+Connection ~ 4000 6575
+Wire Wire Line
+	3500 6575 3500 6525
+Connection ~ 3750 6575
+Wire Wire Line
+	3250 6575 3250 6525
+Connection ~ 3500 6575
+Wire Wire Line
+	3000 6575 3000 6525
+Connection ~ 3250 6575
+Wire Wire Line
+	2750 6575 2750 6525
+Connection ~ 3000 6575
+Connection ~ 2750 6575
+Wire Wire Line
+	2250 6525 2250 6575
+Connection ~ 2525 6575
+Wire Wire Line
+	2525 1900 2525 1800
+Connection ~ 2525 1800
+Connection ~ 2525 1900
+Wire Wire Line
+	2750 2000 2750 1900
+Connection ~ 2750 1900
+Connection ~ 2750 2000
+Wire Wire Line
+	2750 1800 2750 1700
+Connection ~ 2750 1700
+Connection ~ 2750 1800
+Wire Wire Line
+	2750 2200 2750 6150
+Connection ~ 2750 2200
+Wire Wire Line
+	3000 6225 3000 2300
+Connection ~ 3000 2300
+Wire Wire Line
+	3000 2200 3000 2100
+Connection ~ 3000 2100
+Connection ~ 3000 2200
+Wire Wire Line
+	3250 6225 3250 2400
+Connection ~ 3250 2400
+Wire Wire Line
+	3500 6225 3500 2500
+Connection ~ 3500 2500
+Wire Wire Line
+	3750 6225 3750 2600
+Connection ~ 3750 2600
+Wire Wire Line
+	4000 6225 4000 2700
+Connection ~ 4000 2700
+Wire Wire Line
+	4250 6225 4250 2800
+Connection ~ 4250 2800
+Wire Wire Line
+	4500 6225 4500 2900
+Connection ~ 4500 2900
+Wire Wire Line
+	4750 6225 4750 3000
+Connection ~ 4750 3000
+Wire Wire Line
+	5000 6225 5000 3100
+Connection ~ 5000 3100
+Wire Wire Line
+	5250 6225 5250 3200
+Connection ~ 5250 3200
+Wire Wire Line
+	5500 6225 5500 3300
+Connection ~ 5500 3300
+Wire Wire Line
+	5750 6225 5750 3400
+Connection ~ 5750 3400
+Wire Wire Line
+	6000 6225 6000 3500
+Connection ~ 6000 3500
+Wire Wire Line
+	6250 3600 6250 6225
+Connection ~ 6250 3600
+Wire Wire Line
+	6500 6225 6500 3700
+Connection ~ 6500 3700
+Wire Wire Line
+	6750 3800 6750 6225
+Connection ~ 6750 3800
+Wire Wire Line
+	7000 6225 7000 3900
+Connection ~ 7000 3900
+Wire Wire Line
+	7250 4000 7250 6225
+Connection ~ 7250 4000
+Wire Wire Line
+	7500 6225 7500 4100
+Connection ~ 7500 4100
+Wire Wire Line
+	7750 4200 7750 6225
+Connection ~ 7750 4200
+Wire Wire Line
+	8000 6225 8000 4300
+Connection ~ 8000 4300
+Wire Wire Line
+	8250 4400 8250 6225
+Connection ~ 8250 4400
+Wire Wire Line
+	8500 6225 8500 4500
+Connection ~ 8500 4500
+Wire Wire Line
+	8750 4600 8750 6225
+Connection ~ 8750 4600
+Wire Wire Line
+	9000 6225 9000 4700
+Connection ~ 9000 4700
+Wire Wire Line
+	9250 4800 9250 6225
+Connection ~ 9250 4800
+Wire Wire Line
+	9500 6225 9500 4900
+Connection ~ 9500 4900
+Wire Wire Line
+	9750 5000 9750 6225
+Connection ~ 9750 5000
+Wire Wire Line
+	10000 6225 10000 5100
+Connection ~ 10000 5100
+Wire Wire Line
+	10250 5200 10250 6225
+Connection ~ 10250 5200
+Wire Wire Line
+	10500 6225 10500 5300
+Connection ~ 10500 5300
+Wire Wire Line
+	10750 5400 10750 6225
+Connection ~ 10750 5400
+Wire Wire Line
+	11000 6225 11000 5500
+Connection ~ 11000 5500
+Wire Wire Line
+	11250 5600 11250 6225
+Connection ~ 11250 5600
+Wire Wire Line
+	11500 6225 11500 5700
+Connection ~ 11500 5700
+Wire Wire Line
+	11750 6225 11750 5800
+Connection ~ 11750 5800
+Wire Wire Line
+	12000 6225 12000 5900
+Connection ~ 12000 5900
+Wire Wire Line
+	12250 6000 12250 6225
+Connection ~ 12250 6000
+Wire Wire Line
+	2250 6225 2250 6150
+Wire Wire Line
+	2250 6150 2750 6150
+Connection ~ 2750 6150
+Wire Wire Line
+	14350 6525 14350 6575
+Wire Wire Line
+	14150 6575 14350 6575
+Wire Wire Line
+	14600 6575 14600 6525
+Wire Wire Line
+	14850 6575 14850 6525
+Connection ~ 14600 6575
+Wire Wire Line
+	14150 6575 14150 2800
+Connection ~ 14150 2800
+Wire Wire Line
+	14350 6225 14350 2900
+Connection ~ 14350 2900
+Wire Wire Line
+	13975 2700 13975 2800
+Connection ~ 13975 2800
+Connection ~ 13975 2700
+Connection ~ 14350 6575
+Wire Wire Line
+	15100 6575 15100 6525
+Connection ~ 14850 6575
+Wire Wire Line
+	15350 6575 15350 6525
+Connection ~ 15100 6575
+Wire Wire Line
+	15600 6575 15600 6525
+Connection ~ 15350 6575
+Wire Wire Line
+	15850 6575 15850 6525
+Connection ~ 15600 6575
+Wire Wire Line
+	16100 6575 16100 6525
+Connection ~ 15850 6575
+Wire Wire Line
+	16350 6575 16350 6525
+Connection ~ 16100 6575
+Wire Wire Line
+	16600 6575 16600 6525
+Connection ~ 16350 6575
+Wire Wire Line
+	16850 6575 16850 6525
+Connection ~ 16600 6575
+Wire Wire Line
+	17100 6575 17100 6525
+Connection ~ 16850 6575
+Wire Wire Line
+	17350 6575 17350 6525
+Connection ~ 17100 6575
+Wire Wire Line
+	17600 6575 17600 6525
+Connection ~ 17350 6575
+Wire Wire Line
+	17850 6575 17850 6525
+Connection ~ 17600 6575
+Wire Wire Line
+	18100 6575 18100 6525
+Connection ~ 17850 6575
+Wire Wire Line
+	18350 6575 18350 6525
+Connection ~ 18100 6575
+Wire Wire Line
+	18600 6575 18600 6525
+Connection ~ 18350 6575
+Wire Wire Line
+	18850 6575 18850 6525
+Connection ~ 18600 6575
+Wire Wire Line
+	19100 6575 19100 6525
+Connection ~ 18850 6575
+Wire Wire Line
+	19350 6575 19350 6525
+Connection ~ 19100 6575
+Wire Wire Line
+	21100 6525 21100 6575
+Connection ~ 19350 6575
+Wire Wire Line
+	19600 6525 19600 6575
+Connection ~ 19600 6575
+Wire Wire Line
+	19850 6525 19850 6575
+Connection ~ 19850 6575
+Wire Wire Line
+	20100 6525 20100 6575
+Connection ~ 20100 6575
+Wire Wire Line
+	20350 6525 20350 6575
+Connection ~ 20350 6575
+Wire Wire Line
+	20600 6525 20600 6575
+Connection ~ 20600 6575
+Wire Wire Line
+	20850 6525 20850 6575
+Connection ~ 20850 6575
+Connection ~ 21100 6575
+Wire Wire Line
+	14600 6225 14600 3000
+Connection ~ 14600 3000
+Wire Wire Line
+	14850 6225 14850 5900
+Connection ~ 14850 3200
+Wire Wire Line
+	15350 6225 15350 3300
+Connection ~ 15350 3300
+Wire Wire Line
+	15100 3200 15100 3100
+Connection ~ 15100 3100
+Connection ~ 15100 3200
+Wire Wire Line
+	15100 6225 15100 5900
+Wire Wire Line
+	15100 5900 14850 5900
+Connection ~ 14850 5900
+Wire Wire Line
+	15600 6225 15600 3400
+Connection ~ 15600 3400
+Wire Wire Line
+	15850 6225 15850 3500
+Connection ~ 15850 3500
+Wire Wire Line
+	21100 6225 21100 5600
+Connection ~ 21100 5600
+Wire Wire Line
+	20850 6225 20850 5500
+Connection ~ 20850 5500
+Wire Wire Line
+	20600 6225 20600 5400
+Connection ~ 20600 5400
+Wire Wire Line
+	20350 6225 20350 5300
+Connection ~ 20350 5300
+Wire Wire Line
+	20100 6225 20100 5200
+Connection ~ 20100 5200
+Wire Wire Line
+	19850 6225 19850 5100
+Connection ~ 19850 5100
+Wire Wire Line
+	19600 6225 19600 5000
+Connection ~ 19600 5000
+Wire Wire Line
+	19350 6225 19350 4900
+Connection ~ 19350 4900
+Wire Wire Line
+	19100 6225 19100 4800
+Connection ~ 19100 4800
+Wire Wire Line
+	18850 6225 18850 4700
+Connection ~ 18850 4700
+Wire Wire Line
+	18600 6225 18600 4600
+Connection ~ 18600 4600
+Wire Wire Line
+	18350 6225 18350 4500
+Connection ~ 18350 4500
+Wire Wire Line
+	18100 6225 18100 4400
+Connection ~ 18100 4400
+Wire Wire Line
+	17850 6225 17850 4300
+Connection ~ 17850 4300
+Wire Wire Line
+	17600 6225 17600 4200
+Connection ~ 17600 4200
+Wire Wire Line
+	17350 6225 17350 4100
+Connection ~ 17350 4100
+Wire Wire Line
+	16850 6225 16850 3900
+Connection ~ 16850 3900
+Wire Wire Line
+	17100 6225 17100 4000
+Connection ~ 17100 4000
+Wire Wire Line
+	16600 6225 16600 3800
+Connection ~ 16600 3800
+Wire Wire Line
+	16350 6225 16350 3700
+Connection ~ 16350 3700
+Wire Wire Line
+	16100 6225 16100 3600
+Connection ~ 16100 3600
+$Comp
+L Star_Wars_EMI:Edge_Connector_30_ P19
+U 1 1 5D4872BD
+P 21475 4150
+F 0 "P19" H 21475 5825 60  0000 C CNN
+F 1 "Edge_Connector_30_" H 21500 5750 60  0000 C CNN
+F 2 "Star_Wars_EMI:Edge_Plug_30" H 21600 5775 60  0001 C CNN
+F 3 "" H 21600 5775 60  0001 C CNN
+	1    21475 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Star_Wars_EMI:Edge_Connector_44 P20
+U 1 1 5D489943
+P 1675 3150
+F 0 "P20" H 1675 4825 60  0000 C CNN
+F 1 "Edge_Connector_44" H 1700 4750 60  0000 C CNN
+F 2 "Star_Wars_EMI:Edge_Plug_44" H 1800 4775 60  0001 C CNN
+F 3 "" H 1800 4775 60  0001 C CNN
+	1    1675 3150
+	1    0    0    -1  
+$EndComp
+Text Label 2250 2300 0    60   ~ 0
+Y
+Text Label 1850 2100 0    60   ~ 0
++5V
+Text Label 2200 2400 0    60   ~ 0
+21
+Text Label 2250 2500 0    60   ~ 0
+3
+Text Label 2250 2600 0    60   ~ 0
+X
+Text Label 2250 2700 0    60   ~ 0
+4
+Text Label 2250 2800 0    60   ~ 0
+W
+Text Label 2250 2900 0    60   ~ 0
+E
+Text Label 2200 3000 0    60   ~ 0
+18
+Text Label 2250 3100 0    60   ~ 0
+C
+Text Label 2250 3200 0    60   ~ 0
+D
+Text Label 2250 3300 0    60   ~ 0
+F
+Text Label 2250 3400 0    60   ~ 0
+H
+Text Label 2250 3500 0    60   ~ 0
+J
+Text Label 2250 3600 0    60   ~ 0
+K
+Text Label 2250 3700 0    60   ~ 0
+L
+Text Label 2250 3800 0    60   ~ 0
+M
+Text Label 2250 3900 0    60   ~ 0
+N
+Text Label 2250 4000 0    60   ~ 0
+P
+Text Label 2250 4100 0    60   ~ 0
+R
+Text Label 2250 4200 0    60   ~ 0
+S
+Text Label 2250 4300 0    60   ~ 0
+T
+Text Label 2250 4400 0    60   ~ 0
+U
+Text Label 2250 4500 0    60   ~ 0
+V
+Text Label 2250 4600 0    60   ~ 0
+5
+Text Label 2250 4700 0    60   ~ 0
+6
+Text Label 2250 4800 0    60   ~ 0
+7
+Text Label 2250 4900 0    60   ~ 0
+8
+Text Label 2250 5000 0    60   ~ 0
+9
+Text Label 2250 5100 0    60   ~ 0
+10
+Text Label 2250 5200 0    60   ~ 0
+11
+Text Label 2250 5300 0    60   ~ 0
+12
+Text Label 2250 5400 0    60   ~ 0
+13
+Text Label 2250 5500 0    60   ~ 0
+14
+Text Label 2250 5600 0    60   ~ 0
+15
+Text Label 2250 5700 0    60   ~ 0
+16
+Text Label 2250 5800 0    60   ~ 0
+17
+Text Label 2250 5900 0    60   ~ 0
+19
+Text Label 2250 6000 0    60   ~ 0
+20
+Text Label 13875 3100 0    60   ~ 0
++5V_
+Text Label 14000 3300 0    60   ~ 0
+R_
+Text Label 13950 3400 0    60   ~ 0
+14_
+Text Label 14000 3500 0    60   ~ 0
+C_
+Text Label 14000 3600 0    60   ~ 0
+D_
+Text Label 14000 3700 0    60   ~ 0
+E_
+Text Label 14000 2900 0    60   ~ 0
+S_
+Text Label 13950 3000 0    60   ~ 0
+15_
+Text Label 14000 3800 0    60   ~ 0
+F_
+Text Label 14000 3900 0    60   ~ 0
+H_
+Text Label 14025 4000 0    60   ~ 0
+J_
+Text Label 14000 4100 0    60   ~ 0
+K_
+Text Label 14025 4200 0    60   ~ 0
+L_
+Text Label 14000 4300 0    60   ~ 0
+M_
+Text Label 14000 4400 0    60   ~ 0
+N_
+Text Label 14000 4500 0    60   ~ 0
+P_
+Text Label 14000 4600 0    60   ~ 0
+3_
+Text Label 14000 4700 0    60   ~ 0
+4_
+Text Label 14000 4800 0    60   ~ 0
+5_
+Text Label 14000 4900 0    60   ~ 0
+6_
+Text Label 14000 5000 0    60   ~ 0
+7_
+Text Label 14000 5100 0    60   ~ 0
+8_
+Text Label 14000 5200 0    60   ~ 0
+9_
+Text Label 13950 5300 0    60   ~ 0
+10_
+Text Label 13950 5400 0    60   ~ 0
+11_
+Text Label 13950 5500 0    60   ~ 0
+12_
+Text Label 13950 5600 0    60   ~ 0
+13_
+Wire Wire Line
+	12250 6575 12250 6625
+Wire Wire Line
+	12000 6575 12250 6575
+Wire Wire Line
+	11750 6575 12000 6575
+Wire Wire Line
+	11500 6575 11750 6575
+Wire Wire Line
+	11250 6575 11500 6575
+Wire Wire Line
+	2525 2000 2750 2000
+Wire Wire Line
+	11000 6575 11250 6575
+Wire Wire Line
+	10750 6575 11000 6575
+Wire Wire Line
+	10500 6575 10750 6575
+Wire Wire Line
+	10250 6575 10500 6575
+Wire Wire Line
+	10000 6575 10250 6575
+Wire Wire Line
+	9750 6575 10000 6575
+Wire Wire Line
+	9500 6575 9750 6575
+Wire Wire Line
+	9250 6575 9500 6575
+Wire Wire Line
+	9000 6575 9250 6575
+Wire Wire Line
+	8750 6575 9000 6575
+Wire Wire Line
+	8500 6575 8750 6575
+Wire Wire Line
+	8250 6575 8500 6575
+Wire Wire Line
+	8000 6575 8250 6575
+Wire Wire Line
+	7750 6575 8000 6575
+Wire Wire Line
+	7500 6575 7750 6575
+Wire Wire Line
+	7250 6575 7500 6575
+Wire Wire Line
+	7000 6575 7250 6575
+Wire Wire Line
+	6750 6575 7000 6575
+Wire Wire Line
+	6500 6575 6750 6575
+Wire Wire Line
+	6250 6575 6500 6575
+Wire Wire Line
+	6000 6575 6250 6575
+Wire Wire Line
+	5750 6575 6000 6575
+Wire Wire Line
+	5500 6575 5750 6575
+Wire Wire Line
+	5250 6575 5500 6575
+Wire Wire Line
+	5000 6575 5250 6575
+Wire Wire Line
+	4750 6575 5000 6575
+Wire Wire Line
+	4500 6575 4750 6575
+Wire Wire Line
+	4250 6575 4500 6575
+Wire Wire Line
+	4000 6575 4250 6575
+Wire Wire Line
+	3750 6575 4000 6575
+Wire Wire Line
+	3500 6575 3750 6575
+Wire Wire Line
+	3250 6575 3500 6575
+Wire Wire Line
+	3000 6575 3250 6575
+Wire Wire Line
+	2750 6575 3000 6575
+Wire Wire Line
+	2525 6575 2750 6575
+Wire Wire Line
+	2525 1800 1675 1800
+Wire Wire Line
+	2525 1900 1675 1900
+Wire Wire Line
+	2750 1900 2525 1900
+Wire Wire Line
+	2750 2000 12675 2000
+Wire Wire Line
+	2750 1700 1675 1700
+Wire Wire Line
+	2750 1800 2525 1800
+Wire Wire Line
+	2750 2200 3000 2200
+Wire Wire Line
+	3000 2300 1675 2300
+Wire Wire Line
+	3000 2100 12675 2100
+Wire Wire Line
+	3000 2200 12675 2200
+Wire Wire Line
+	3250 2400 12675 2400
+Wire Wire Line
+	3500 2500 1675 2500
+Wire Wire Line
+	3750 2600 12675 2600
+Wire Wire Line
+	4000 2700 1675 2700
+Wire Wire Line
+	4250 2800 12675 2800
+Wire Wire Line
+	4500 2900 1675 2900
+Wire Wire Line
+	4750 3000 12675 3000
+Wire Wire Line
+	5000 3100 1675 3100
+Wire Wire Line
+	5250 3200 12675 3200
+Wire Wire Line
+	5500 3300 1675 3300
+Wire Wire Line
+	5750 3400 12675 3400
+Wire Wire Line
+	6000 3500 1675 3500
+Wire Wire Line
+	6250 3600 12675 3600
+Wire Wire Line
+	6500 3700 1675 3700
+Wire Wire Line
+	6750 3800 12675 3800
+Wire Wire Line
+	7000 3900 1675 3900
+Wire Wire Line
+	7250 4000 12675 4000
+Wire Wire Line
+	7500 4100 1675 4100
+Wire Wire Line
+	7750 4200 12675 4200
+Wire Wire Line
+	8000 4300 1675 4300
+Wire Wire Line
+	8250 4400 12675 4400
+Wire Wire Line
+	8500 4500 1675 4500
+Wire Wire Line
+	8750 4600 12675 4600
+Wire Wire Line
+	9000 4700 1675 4700
+Wire Wire Line
+	9250 4800 12675 4800
+Wire Wire Line
+	9500 4900 1675 4900
+Wire Wire Line
+	9750 5000 12675 5000
+Wire Wire Line
+	10000 5100 1675 5100
+Wire Wire Line
+	10250 5200 12675 5200
+Wire Wire Line
+	10500 5300 1675 5300
+Wire Wire Line
+	10750 5400 12675 5400
+Wire Wire Line
+	11000 5500 1675 5500
+Wire Wire Line
+	11250 5600 12675 5600
+Wire Wire Line
+	11500 5700 1675 5700
+Wire Wire Line
+	11750 5800 12675 5800
+Wire Wire Line
+	12000 5900 1675 5900
+Wire Wire Line
+	12250 6000 12675 6000
+Wire Wire Line
+	2750 6150 2750 6225
+Wire Wire Line
+	14600 6575 14850 6575
+Wire Wire Line
+	14150 2800 21475 2800
+Wire Wire Line
+	14350 2900 21475 2900
+Wire Wire Line
+	13975 2800 14150 2800
+Wire Wire Line
+	13975 2700 13750 2700
+Wire Wire Line
+	14350 6575 14600 6575
+Wire Wire Line
+	14850 6575 15100 6575
+Wire Wire Line
+	15100 6575 15350 6575
+Wire Wire Line
+	15350 6575 15600 6575
+Wire Wire Line
+	15600 6575 15850 6575
+Wire Wire Line
+	15850 6575 16100 6575
+Wire Wire Line
+	16100 6575 16350 6575
+Wire Wire Line
+	16350 6575 16600 6575
+Wire Wire Line
+	16600 6575 16850 6575
+Wire Wire Line
+	16850 6575 17100 6575
+Wire Wire Line
+	17100 6575 17350 6575
+Wire Wire Line
+	17350 6575 17600 6575
+Wire Wire Line
+	17600 6575 17850 6575
+Wire Wire Line
+	17850 6575 18100 6575
+Wire Wire Line
+	18100 6575 18350 6575
+Wire Wire Line
+	18350 6575 18600 6575
+Wire Wire Line
+	18600 6575 18850 6575
+Wire Wire Line
+	18850 6575 19100 6575
+Wire Wire Line
+	19100 6575 19350 6575
+Wire Wire Line
+	19350 6575 19600 6575
+Wire Wire Line
+	19600 6575 19850 6575
+Wire Wire Line
+	19850 6575 20100 6575
+Wire Wire Line
+	20100 6575 20350 6575
+Wire Wire Line
+	20350 6575 20600 6575
+Wire Wire Line
+	20600 6575 20850 6575
+Wire Wire Line
+	20850 6575 21100 6575
+Wire Wire Line
+	21100 6575 21100 6675
+Wire Wire Line
+	14600 3000 13750 3000
+Wire Wire Line
+	14850 3200 13750 3200
+Wire Wire Line
+	15350 3300 21475 3300
+Wire Wire Line
+	15100 3100 21475 3100
+Wire Wire Line
+	15100 3200 14850 3200
+Wire Wire Line
+	14850 5900 14850 3200
+Wire Wire Line
+	15600 3400 13750 3400
+Wire Wire Line
+	15850 3500 21475 3500
+Wire Wire Line
+	21100 5600 13750 5600
+Wire Wire Line
+	20850 5500 21475 5500
+Wire Wire Line
+	20600 5400 13750 5400
+Wire Wire Line
+	20350 5300 21475 5300
+Wire Wire Line
+	20100 5200 13750 5200
+Wire Wire Line
+	19850 5100 21475 5100
+Wire Wire Line
+	19600 5000 13750 5000
+Wire Wire Line
+	19350 4900 21475 4900
+Wire Wire Line
+	19100 4800 13750 4800
+Wire Wire Line
+	18850 4700 21475 4700
+Wire Wire Line
+	18600 4600 13750 4600
+Wire Wire Line
+	18350 4500 21475 4500
+Wire Wire Line
+	18100 4400 13750 4400
+Wire Wire Line
+	17850 4300 21475 4300
+Wire Wire Line
+	17600 4200 13750 4200
+Wire Wire Line
+	17350 4100 21475 4100
+Wire Wire Line
+	16850 3900 21475 3900
+Wire Wire Line
+	17100 4000 13750 4000
+Wire Wire Line
+	16600 3800 13750 3800
+Wire Wire Line
+	16350 3700 21475 3700
+Wire Wire Line
+	16100 3600 13750 3600
+$Comp
+L Device:R R1
+U 1 1 5F58F8AB
+P 1150 2450
+F 0 "R1" H 1220 2496 50  0000 L CNN
+F 1 "1K" H 1220 2405 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 1080 2450 50  0001 C CNN
+F 3 "~" H 1150 2450 50  0001 C CNN
+	1    1150 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D1
+U 1 1 5F5902B7
+P 1150 2850
+F 0 "D1" V 1189 2733 50  0000 R CNN
+F 1 "LED" V 1098 2733 50  0000 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric" H 1150 2850 50  0001 C CNN
+F 3 "~" H 1150 2850 50  0001 C CNN
+	1    1150 2850
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1150 2100 1150 2300
+Wire Wire Line
+	1150 2100 1675 2100
+Connection ~ 1675 2100
+Wire Wire Line
+	1675 2100 3000 2100
+Wire Wire Line
+	1150 2600 1150 2700
+$Comp
+L power:GND #PWR0101
+U 1 1 5F668B5F
+P 1150 3100
+F 0 "#PWR0101" H 1150 2850 50  0001 C CNN
+F 1 "GND" H 1155 2927 50  0000 C CNN
+F 2 "" H 1150 3100 50  0001 C CNN
+F 3 "" H 1150 3100 50  0001 C CNN
+	1    1150 3100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1150 3000 1150 3100
+$Comp
+L Device:LED D2
+U 1 1 5F68E2A1
+P 13250 3950
+F 0 "D2" V 13289 3833 50  0000 R CNN
+F 1 "LED" V 13198 3833 50  0000 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric" H 13250 3950 50  0001 C CNN
+F 3 "~" H 13250 3950 50  0001 C CNN
+	1    13250 3950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5F68F2E6
+P 13250 3500
+F 0 "R2" H 13320 3546 50  0000 L CNN
+F 1 "1K" H 13320 3455 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 13180 3500 50  0001 C CNN
+F 3 "~" H 13250 3500 50  0001 C CNN
+	1    13250 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 5F68FD25
+P 13250 4250
+F 0 "#PWR0102" H 13250 4000 50  0001 C CNN
+F 1 "GND" H 13255 4077 50  0000 C CNN
+F 2 "" H 13250 4250 50  0001 C CNN
+F 3 "" H 13250 4250 50  0001 C CNN
+	1    13250 4250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	13750 3100 13250 3100
+Wire Wire Line
+	13250 3100 13250 3350
+Connection ~ 13750 3100
+Wire Wire Line
+	13250 3650 13250 3800
+Wire Wire Line
+	13250 4100 13250 4250
+$EndSCHEMATC

@@ -1,0 +1,13 @@
+Reference                                  QTY   Value                    Digikey Part Number
+
+C1  C2  C3  C4  C5  C6  C7  C8  C9  C10	   43    .1uf                     399-4454-1-ND
+C11 C12 C13 C14 C15 C16 C21 C22 C23 C26
+C29 C31 C32 C33 C34 C37 C38 C39 C40 C52
+C53 C54 C55 C56 C57 C58 C59 C60 C61 C62
+C63 C64 C68      
+ 
+C45 C46 C47 C48 C49 C50                    6     470pf                    1113PHCT-ND
+C17 C36	                                   2     .01uf                    399-4452-1-ND
+P19                                        1	 30 POS Edge Connector    EDC307302-ND
+P20                                        1     44 POS Edge Connector    151-1253-ND
+N/A                                        6     SNAP RIVET 0.240"        RPC1782-ND

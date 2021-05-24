@@ -1,0 +1,9 @@
+Reference, Quantity, Value, Footprint, Datasheet
+C17 C36 ,2,".01","Star_Wars_EMI:Cap",""
+C2 C21 C40 C22 C23 C5 C37 C3 C4 C6 C7 C8 C9 C10 C11 C12 C13 C14 C15 C16 C26 C29 C31 C32 C33 C34 C38 C39 C1 C57 C55 C54 C56 C68 C64 C63 C62 C61 C60 C59 C58 C53 C52 ,43,".1","Star_Wars_EMI:Cap",""
+C20 C19 C18 C24 C25 C27 C28 C30 C35 C41 C42 C67 C66 C65 C51 C44 C43 ,17,"OPEN","Star_Wars_EMI:Cap",""
+C50 C49 C48 C47 C46 C45 ,6,"470pf","Star_Wars_EMI:Cap",""
+J19 ,1,"Edge_Connector_30","Star_Wars_EMI:J19",""
+J20 ,1,"Edge_Connector_44","Star_Wars_EMI:J20",""
+P19 ,1,"Edge_Connector_30_","Star_Wars_EMI:Edge_Plug_30",""
+P20 ,1,"Edge_Connector_44","Star_Wars_EMI:Edge_Plug_44",""
